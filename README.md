@@ -15,9 +15,13 @@ MD BootLoader 6A
 
 #### 使用说明
 
-1.  xxxx
+20210717--备注
+功能:
+1.  美团6A bootloader 仅支持485远程升级接口
 2.  xxxx
 3.  xxxx
+存在问题:
+1. bootloader与App层协议不兼容
 
 #### 参与贡献
 
